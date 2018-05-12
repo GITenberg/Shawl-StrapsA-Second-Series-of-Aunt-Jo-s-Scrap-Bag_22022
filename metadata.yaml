@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22022#Shawl-StrapsA-Second-Series-of-Aunt-Jo-s-Scrap-Bag
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2007-07-09'
 gutenberg_type: Text
